@@ -10,12 +10,7 @@ print("Full name:", full_name)
 print()
 print("Address: ", country,city,year,sep="\n\t\t")
 print()
-print("is married type \'yes\', if not type \'no\'")
-is_married=input("Married or not: ")
-if is_married=="yes":
-    print("He/she is Married")
-else:
-    print("He/she is not married")
+
 is_true=input("whether true or not: ")
 print(is_true=="true")
 is_light_on=input("Type whether the light on or off: ")
