@@ -2,6 +2,7 @@
 a=["apple","banana","cherry","mango","lemon","orange"]
 print(a)                                                    #print the list
 print("length of the list: ", len(a))                       #length of the list
+
 #print the item using indexing and negative indexing
 print("first item in the list: " ,a[0])
 print("last item in the list: " ,a[-1])
